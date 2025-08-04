@@ -59,7 +59,7 @@ php artisan migrate
 php artisan reverb:start
 ```
 
-5. **Start Laravel development server**
+6. **Start Laravel development server**
 ```bash  
 php artisan serve
 ```
