@@ -18,6 +18,7 @@ A realtime chat application built with with Laravel, Livewire, Laravel Reverb an
 ```bash
 git clone https://github.com/your-username/chat-app.git
 cd chat-app
+```bash
 
 1. **Install PHP and JS dependencies**
 
